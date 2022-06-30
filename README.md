@@ -1,2 +1,2 @@
 # python-project
-it is about our python project
+it is our python project
